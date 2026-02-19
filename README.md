@@ -19,9 +19,6 @@
 <img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
 </p>
 <br />
-
-  <!--a -->
-    <div id="user-content-toc">
     <ul align="left">
       <summary><h2 style="display: inline-block">How to reach me🤝</h2></summary>
     </ul>
