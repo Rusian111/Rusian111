@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Rusian111/Rusian111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![trophy](https://github-profile-trophy.vercel.app/?username=HridoyHazard&row=1&no-bg=true)
+![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HridoyHazard&show_icons=true&count_private=true&theme=great-gatsby) </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HridoyHazard&theme=great-gatsby&layout=compact)](https://github.com/HridoyHazard)
+</br>
