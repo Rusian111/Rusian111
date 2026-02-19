@@ -10,7 +10,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,html,css,react,postgres,mongo,git,vscode,docker,postman,supabase,linux&perline=10"  />
+  <img src="https://skillicons.dev/icons?i=py,java,html,css,react,postgres,mongodb,git,vscode,docker,postman,supabase,linux&perline=10" width="600" alt="Mis herramientas" />
 </p>
 <br />
    
