@@ -7,21 +7,7 @@
 
 
 
-<!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,html,css,react,postgres,mongodb,git,vscode,docker,postman,supabase,linux&perline=10" width="600" alt="Mis herramientas" />
-</p>
-<br />
-   
- 
-  <!--stadisticas -->
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,java,html,css,react,postgres,mongodb,git,vscode,docker,postman,supabase,linux,flutter&perline=10" />
-  </a>
-</p>
+
  <!--icons and links-->
   <ul align="left">
       <summary><h2 style="display: inline-block">How to reach me🤝</h2></summary>
