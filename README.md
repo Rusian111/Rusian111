@@ -16,12 +16,12 @@
    
  
   <!--stadisticas -->
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-    <a href="https://github.com/HridoyHazard/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HridoyHazard&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,java,html,css,react,postgres,mongodb,git,vscode,docker,postman,supabase,linux,flutter&perline=10" />
+  </a>
 </p>
-
  <!--icons and links-->
   <ul align="left">
       <summary><h2 style="display: inline-block">How to reach me🤝</h2></summary>
