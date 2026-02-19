@@ -19,9 +19,7 @@
 <img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
 </p>
 <br />
-<td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LulietLyan&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
-  </td>
+
   <!--a -->
     <div id="user-content-toc">
     <ul align="left">
