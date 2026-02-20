@@ -10,7 +10,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,html,css,react,postgres,mongodb,git,vscode,supabase,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,html,css,react,postgres,git,vscode,supabase,linux&perline=10"  />
 </p>
 <br />
 <!-- serpiente -->
