@@ -12,11 +12,13 @@
 <img width="500px"  src="https://skillicons.dev/icons?i=py,java,html,css,react,postgres,mongodb,git,vscode,supabase,linux&perline=10"  />
 </p>
 <br />
-
+<!-- serpiente -->
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
+<!-- aqui va lo otro-->
+<img src="https://github-readme-stats.vercel.app/api?username=sanskarjaiswal2001&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sanskar's GitHub Stats">
 
 ### How to reach me🤝
 
