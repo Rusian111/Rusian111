@@ -1,8 +1,8 @@
 ## Que onda👋 Soy Yazman
 
+<img alt="GIF" src="https://media.tenor.com/vaXvnPRd6IYAAAAj/aggron-pok%C3%A9mon-aggron.gif" width = 200/>
 
-
-- 🌱 I’m currently learning Java & React<img alt="GIF" src="https://media.tenor.com/vaXvnPRd6IYAAAAj/aggron-pok%C3%A9mon-aggron.gif" width = 200/>
+- 🌱 I’m currently learning Java & React
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 
