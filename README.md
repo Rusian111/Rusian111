@@ -14,10 +14,9 @@
 </p>
 <br />
 <!-- serpiente -->
+### Mi Actividad 🐍
 <p align="center">
-    <img src="https://github.com/Rusian111/Rusian111/assets/99571985/146a5857-a074-4bc3-a802-a6531e8c5fe6" alt="github-snake-dark" />
-
-    alt="example" />
+  <img src="https://raw.githubusercontent.com/Rusian111/Rusian111/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 <!-- aqui va lo otro-->
 
