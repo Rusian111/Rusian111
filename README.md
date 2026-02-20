@@ -18,7 +18,7 @@
     alt="example" />
 </p>
 <!-- aqui va lo otro-->
-<img alt="GIF" src="https://media1.tenor.com/m/vaXvnPRd6IYAAAAC/aggron-pok%C3%A9mon-aggron.gif" width = 200/>
+<img alt="GIF" src="https://media.tenor.com/vaXvnPRd6IYAAAAj/aggron-pok%C3%A9mon-aggron.gif" width = 200/>
 
 
 ### How to reach me🤝
